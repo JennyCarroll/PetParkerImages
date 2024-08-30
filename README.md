@@ -9,7 +9,7 @@ Steps to add a new logo:
 
 login to Strikingly, click to edit your Carousel section and copy in the following code above the <! –– CREATE NEW IMAGE ABOVE THIS LINE ––> line
 ```html
-<div class="logo-item"><img src="LINK-URL" alt="ALT-TEXT"></div></div>
+<div class="logo-item"><img src="LINK-URL" alt="ALT-TEXT"></div>
 ```
 
 ### 3 - copy the link for your <img> tag:
